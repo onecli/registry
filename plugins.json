@@ -10,5 +10,11 @@
     "description": "GitHub for AI agents: PRs, Issues, Repos, Actions, Releases, Search, and git credential helper",
     "repo": "onecli/onecli-github",
     "latest": "v1.0.3"
+  },
+  {
+    "name": "resend",
+    "description": "Resend for AI agents: Email, Domains, Contacts, Broadcasts, Segments, API Keys, Templates, Topics, Webhooks, and Receiving",
+    "repo": "onecli/onecli-resend",
+    "latest": "v0.0.0"
   }
 ]
