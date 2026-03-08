@@ -9,7 +9,7 @@
     "name": "github",
     "description": "GitHub for AI agents: PRs, Issues, Repos, Actions, Releases, Search, and git credential helper",
     "repo": "onecli/onecli-github",
-    "latest": "v1.0.4"
+    "latest": "v1.0.5"
   },
   {
     "name": "resend",
