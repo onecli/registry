@@ -3,7 +3,7 @@
     "name": "google",
     "description": "Google Workspace for AI agents: Calendar, Gmail, Drive, Sheets, Docs, Slides, Tasks, Chat, Contacts, People, Forms, Groups, Keep, Apps Script, Classroom",
     "repo": "onecli/onecli-google",
-    "latest": "v1.0.9"
+    "latest": "v1.0.10"
   },
   {
     "name": "github",
